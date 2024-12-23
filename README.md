@@ -1,1 +1,3 @@
 # Ecommerce-Store
+
+In development phase. coming soon ...
